@@ -16,7 +16,7 @@ Built with a Node.js/Express backend and a vanilla JavaScript frontend.
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Node.js, Express
-- **Database:** (Add MongoDB / any DB you’re using)
+- **Database:**  MongoDB
 - **Version Control:** Git & GitHub
 
 ---
